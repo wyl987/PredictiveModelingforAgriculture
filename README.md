@@ -1,6 +1,6 @@
 ## Overview
 
-The "Predictive Modeling for Agriculture" project involves building a machine learning model to predict the most suitable crop for a field based on essential soil metrics such as nitrogen (N), phosphorous (P), potassium (K), and pH levels. The goal of the project is to help farmers determine the best crop to plant based on the condition of the soil in their field, with the objective of maximizing crop yield.
+The "Predictive Modeling for Agriculture" project is part of the DataCamp curriculum. It involves building a machine learning model to predict the most suitable crop for a field based on essential soil metrics such as nitrogen (N), phosphorous (P), potassium (K), and pH levels. The goal of the project is to help farmers determine the best crop to plant based on the condition of the soil in their field, with the objective of maximizing crop yield.
 
 ## Skillset
 
